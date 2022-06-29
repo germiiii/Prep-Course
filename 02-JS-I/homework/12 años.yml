@@ -1,0 +1,8 @@
+variables: son instrumentos que almacenan lo que se les sea asignado, un nombre en string, numeros etc
+strings: son como la palabra lo dice hilos de caracteres como por ejemplo palabras
+funciones: son agrupaciones de tareas a desarrollar almacenadas en un nombre previamente asignado, es como si fuera una variable pero almacenan tareas
+argumentos: son los parametros que necesitara una funcion para desarrollar las tareas
+return: se usa para imprimir en pantalla el resultado de la cadena de tareas solicitada 
+declaraciones:se utiliza para asignarle datos a las variables por ejemplo a= 'hola' si yo ahora en la consola pongo a obtendre 'hola'
+if: es un condicional logico, es decir: si (esto se cumple) (hacer esto)
+valores booleanos: valores logicos a una ¨pregunta¨ realizada a la consola estos pueden ser verdadero o falso 
